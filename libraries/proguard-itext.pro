@@ -1,4 +1,4 @@
-# proguard configuration for iText 5.5.11
+# Proguard Configuration for iText 5.5.11
 
 -keep class org.spongycastle.** { *; }
 -dontwarn org.spongycastle.**

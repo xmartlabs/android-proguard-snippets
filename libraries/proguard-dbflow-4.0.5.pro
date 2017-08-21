@@ -1,4 +1,4 @@
-#Dbflow 4.0.5
+# Proguard Configuration for Dbflow 4.0.5
 
 -keepattributes Annotation
 
